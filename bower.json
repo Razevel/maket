@@ -1,0 +1,22 @@
+{
+  "name": "woolshop",
+  "description": "html css js maket of woolshop",
+  "main": "index.js",
+  "authors": [
+    "Rodionov E.A."
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "3.*"
+  }
+}
