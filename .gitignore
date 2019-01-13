@@ -3,3 +3,4 @@
 /.vs
 /.idea
 /package-lock.json
+/build
