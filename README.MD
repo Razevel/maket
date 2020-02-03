@@ -1,5 +1,3 @@
-HTML, CSS, JS макет интернет магазина пряжи. 
-# 
 gulp \[js/html/styles/fonts/images/all\] \[--clean\] \[--release/\[--debug\]\]- собрать файлы в выбранном режиме.
 
 Например, 
